@@ -8,7 +8,6 @@
 
 ![Οθόνη Παραμέτρων](http://users.sch.gr/chertour/sms_desktop/Screen1.png)
 ![Οθόνη Αποστολής](http://users.sch.gr/chertour/sms_desktop/Screen2.png)
-![Οθόνη Μαζικής Αποστολής](http://users.sch.gr/chertour/sms_desktop/Screen3.png)
 ![Οθόνη Αρχείου Απεσταλμένων](http://users.sch.gr/chertour/sms_desktop/Screen4.png)
 ![Οθόνη Διαχείρισης](http://users.sch.gr/chertour/sms_desktop/Screen5.png)
 
