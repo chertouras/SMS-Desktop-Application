@@ -16,8 +16,8 @@
 
 Το πρώτο **parameters.txt** περιέχει τις παρακάτω παραμέτρους: 
 
- - key='xxxxxxxxxxxx'  <-- **Το κλειδί πρόσβασης στον πάροχο**
- - origin='Mexri 10Ch'  <-- **Το πεδίο From που θα εμφανίζεται ως αποστολέας του SMS**
+- key='xxxxxxxxxxxx'  <-- **Το κλειδί πρόσβασης στον πάροχο**
+- origin='Mexri 10Ch'  <-- **Το πεδίο From που θα εμφανίζεται ως αποστολέας του SMS**
 - url='https://easysms.gr/api/'  <-- **Το entry point για τον πάροχο easysms**
 - send_url='sms/send'    <-- **To send endpoint για την αποστολή**
 - history_url='history/single/list'  <-- **To history endpoint** 
