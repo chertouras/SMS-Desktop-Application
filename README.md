@@ -49,7 +49,7 @@ To **δεύτερο (προαιρετικό)** είναι το αρχείο CSV 
 
 
 
-Μερικές εικόνες:
+### Μερικές εικόνες του User Interface:
 
 ![Οθόνη Παραμέτρων](http://users.sch.gr/chertour/sms_desktop/Screen1.png)
 ![Οθόνη Αποστολής](http://users.sch.gr/chertour/sms_desktop/Screen2.png)
