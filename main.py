@@ -1,3 +1,9 @@
+#
+# A Python/TKinter script to create a desktop application which allows SMS sending through HTTP
+#
+#Developed by: Konstantinos Chertouras - chertour@gmail.com
+
+
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
