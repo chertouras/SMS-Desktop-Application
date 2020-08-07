@@ -1,0 +1,6 @@
+key="xxxxxxxxxxx"
+origin="Mexri 12 Ch"
+url="https://easysms.gr/api/""
+send_url="sms/send"
+history_url="history/single/list"
+balance_url="me/balance"
